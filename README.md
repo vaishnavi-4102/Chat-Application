@@ -27,6 +27,13 @@ The project structure consists of the following files:
     ```bash
    java Server  java Client
 
+### Preview of the application 
+
+![image](https://github.com/vaishnavi-4102/Chat-Application/assets/94067180/325a4487-8b7e-4246-9320-4211a32862cb)
+
+![image](https://github.com/vaishnavi-4102/Chat-Application/assets/94067180/91b64697-ec51-4c8d-b164-f2f9cfe4e0d0)
+
+
 ### Conclusion 
 
 - Thank you For Giving me your Time and Feel free to modify the code and add any additional information or sections as needed.
