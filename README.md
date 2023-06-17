@@ -1,7 +1,6 @@
 # Chat-Application
 
-This is a simple chat application implemented in Java using Socket programming for communication and Swing for the graphical user interface. The application allows multiple users to connect to a server and chat with each other in real-time.
-
+This is a simple chat application implemented in Java using Socket programming for communication and Swing for the graphical user interface. It allows you to send messages to the user and interact with them. It gives us the real time experience.
 ## Getting Started
 
 To run the chat application, you need to have Java Development Kit (JDK) installed on your system.
